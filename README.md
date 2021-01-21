@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-- 🔭 Working on Game bot for android RPG
-- 🌱 Currently learning Golang
+- Working with Python for over a year
+- Learning Golang
+- Currently working on Game bot for android RPG
 
-- 📫 Telegram: @traffox
+Telegram: @traffox
+
+Email:    164902@gmail.com
 
 
 <!--
