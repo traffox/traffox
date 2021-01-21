@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 Working on Game bot for android RPG
+- 🌱 Currently learning Golang
+
+- 📫 Telegram: @traffox
+
+
 <!--
 **traffox/traffox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
