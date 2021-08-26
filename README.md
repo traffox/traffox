@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Working with Python for over a year
-- Learning Golang
-- Currently working on Game bot for android RPG
+- Working with Python for over two years
+- Learning AWS, Kuberneres, Terraform, Git Actions
+- Currently working full time
 
 Telegram: @traffox
 
