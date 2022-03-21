@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Working with Python for over two years
-- Learning AWS, Kuberneres, Terraform, Git Actions
+- Learning Rust
 - Currently working full time
 
 Telegram: @traffox
