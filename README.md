@@ -8,6 +8,7 @@ Telegram: @traffox
 
 Email:    164902@gmail.com
 
+https://www.codewars.com/users/traffox/badges/large
 
 <!--
 **traffox/traffox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
