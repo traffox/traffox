@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - Working with Python for over two years
-- Learning Rust
+- Studying Rust language
 - Currently working full time
 
 Telegram: @traffox
 
-Email:    164902@gmail.com
+Email:    traffox@protonmail.com
 
 <img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=traffox&card&colormode=dark_mode" />
 
