@@ -4,7 +4,7 @@ Backend developer
 -----------------  
 Working with Python for over three years  
 * ✉️  You can contact me at [traffox@protonmail.com](mailto:traffox@protonmail.com) 
-* 🧠  I'm learning Rust 
+* 🧠  I'm learning Rust and Go
 * 🤝  I'm open to collaborating on Interesting project
 
 ### Skills
