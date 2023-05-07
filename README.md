@@ -17,4 +17,6 @@ Working with Python for over three years
 
 ### Badges
 
-<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=traffox&card&colormode=dark_mode" />
+![Codewars Badge](https://www.codewars.com/users/traffox/badges/large)
+
+
