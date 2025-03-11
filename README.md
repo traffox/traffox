@@ -1,11 +1,12 @@
 Hi 👋 My name is Eugene 
 =======================  
-Backend developer 
+Backend Developer  
 -----------------  
-Working with Python for over three years  
-* ✉️  You can contact me at [traffox@protonmail.com](mailto:traffox@protonmail.com) 
-* 🧠  I'm learning Rust and Go
-* 🤝  I'm open to collaborating on Interesting project
+Working with Python  
+* ✉️  You can contact me at [traffox@protonmail.com](mailto:traffox@protonmail.com)  
+* 🧠  I have worked a bit with Rust and Go  
+* 🤝  I'm open to collaborating on interesting projects  
+
 
 ### Skills
 
